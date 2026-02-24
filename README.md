@@ -75,4 +75,10 @@ My longer-term goal is to grow into a backend engineer who can **own services en
 
 ## GitHub Stats & Contribution Graphs
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TienPhatNL&show_icons=true&rank_icon=github&include_all_commits=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TienPhatNL&layout=compact&langs_count=10&cache_seconds=86400)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TienPhatNL&theme=github-compact&hide_border=true)
+
 ![Snake animation](https://raw.githubusercontent.com/TienPhatNL/TienPhatNL/output/github-contribution-grid-snake.svg)
