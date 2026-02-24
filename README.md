@@ -73,31 +73,6 @@ My longer-term goal is to grow into a backend engineer who can **own services en
 
 ---
 
-## Pinned Projects
-
-### 🧠 crawl-agent — fishmakeweb/crawl-agent
-[![Repo](https://img.shields.io/badge/Repo-fishmakeweb%2Fcrawl--agent-181717?style=for-the-badge&logo=github)](https://github.com/fishmakeweb/crawl-agent)
-![Primary](https://img.shields.io/badge/Primary%20Lang-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🕷️ crawldata — TienPhatNL/crawldata
-[![Repo](https://img.shields.io/badge/Repo-TienPhatNL%2Fcrawldata-181717?style=for-the-badge&logo=github)](https://github.com/TienPhatNL/crawldata)
-![Primary](https://img.shields.io/badge/Primary%20Lang-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 🔌 EBridgeAPI — TienPhatNL/EBridgeAPI
-[![Repo](https://img.shields.io/badge/Repo-TienPhatNL%2FEBridgeAPI-181717?style=for-the-badge&logo=github)](https://github.com/TienPhatNL/EBridgeAPI)
-![Primary](https://img.shields.io/badge/Primary%20Lang-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 💎 DiamondShop-SWP391 — TienPhatNL/DiamondShop-SWP391
-[![Repo](https://img.shields.io/badge/Repo-TienPhatNL%2FDiamondShop--SWP391-181717?style=for-the-badge&logo=github)](https://github.com/TienPhatNL/DiamondShop-SWP391)
-
-### 🧰 hephaestus-management — TienPhatNL/hephaestus-management
-[![Repo](https://img.shields.io/badge/Repo-TienPhatNL%2Fhephaestus--management-181717?style=for-the-badge&logo=github)](https://github.com/TienPhatNL/hephaestus-management)
-
-### 🌐 hephaestus-frontend — TienPhatNL/hephaestus-frontend
-[![Repo](https://img.shields.io/badge/Repo-TienPhatNL%2Fhephaestus--frontend-181717?style=for-the-badge&logo=github)](https://github.com/TienPhatNL/hephaestus-frontend)
-
----
-
 ## GitHub Stats & Contribution Graphs
 
 ![Snake animation](https://raw.githubusercontent.com/TienPhatNL/TienPhatNL/output/github-contribution-grid-snake.svg)
