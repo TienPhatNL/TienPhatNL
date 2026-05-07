@@ -1,4 +1,4 @@
-# Nguyen Le Tien Phat — Backend Engineer 
+# Nguyen Le Tien Phat
 
 Hi! I’m **Tien Phat** — a **Backend Engineer (Fresher)**.  
 I enjoy building **clean, reliable APIs** and backend systems, and I learn best by shipping real projects.
