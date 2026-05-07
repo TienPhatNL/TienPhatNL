@@ -1,6 +1,6 @@
-# Nguyen Le Tien Phat
+# Nguyen Le Tien Phat - Back End Developer
 
-Hi! I’m **Tien Phat** — a **Backend Engineer (Fresher)**.  
+Hi! I’m **Tien Phat** — a **Back End Developer (Fresher)**.  
 I enjoy building **clean, reliable APIs** and backend systems, and I learn best by shipping real projects.
 
 - 🔭 Current focus: Building **microservices-ready backend architecture**, **system integration**, and **data processing**
